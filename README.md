@@ -11,7 +11,11 @@ Music: A Bit Of Hope
 Composer: David Renda
 Source: FesliyanStudios.com
 
-Important: This project is NOT open source. The automatically generated Source Code archives attached below are automatically created by GitHub and **do NOT contain the complete game source code**. They cannot be used to build the game.
+全部素材包括源码下载:
+
+https://wwbvs.lanzouq.com/i6tkm4e85bud
+
+密码:6ner
 
 Linux Gaming Guide:
 
