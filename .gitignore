@@ -1,0 +1,9 @@
+# 忽略全部内容
+*
+# 放行整个 code 文件夹
+!code/
+# 放行code里面所有文件
+!code/**/*
+# 保留gitignore本身
+!.gitignore
+
